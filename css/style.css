@@ -209,8 +209,8 @@ h2, .h2{ color: rgba(254, 40, 90, 1);
 
 .menu-item {
   margin-bottom: 30px;
-  width: 90%;
-  box-sizing: border-box;
+  width: 100%;
+  box-sizing: inherit;
   }
   .menu-item img {
     width: 150px;

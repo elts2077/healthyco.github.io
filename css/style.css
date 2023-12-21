@@ -213,10 +213,10 @@ h2, .h2{ color: rgba(254, 40, 90, 1);
   box-sizing: inherit;
   background-color: white;}
   .menu-item img {
-    width: 150px;
-    height: 150px;
+    aspect-ratio: 1/1;
+    max-width: 150px;
     border-radius: 50%;
-    object-fit: cover; }
+    object-fit: cover;  }
   .menu-item .menu-price {
     font-family: "Playfair Display", serif;
     font-size: 24px; }

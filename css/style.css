@@ -214,7 +214,7 @@ h2, .h2{ color: rgba(254, 40, 90, 1);
   background-color: white;}
   .menu-item img {
     aspect-ratio: 1/1;
-    width: auto;
+    width: 100px;
     border-radius: 50%;
     object-fit: cover;  }
   .menu-item .menu-price {
